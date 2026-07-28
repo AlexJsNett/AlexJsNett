@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Oleksii+%F0%9F%91%8B;Frontend+Engineer;React+%2F+Next.js+%2F+TypeScript;Going+full-stack%3A+NestJS+%2B+PostgreSQL" alt="Typing SVG" />
 </a>
 
-![Profile views](https://komarev.com/ghpvc/?username=AlexJsNett&color=6366F1&style=flat-square&label=Profile+views)
-
 </div>
 
 ---
@@ -81,17 +79,6 @@
 |---|---|
 | 🇺🇦 Ukrainian | Native (C2) |
 | 🇬🇧 English | B1 (Intermediate) |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AlexJsNett&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexJsNett&theme=tokyonight&hide_border=true" height="165"/>
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=AlexJsNett&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
 
 ---
 
