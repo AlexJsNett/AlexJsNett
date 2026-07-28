@@ -13,8 +13,8 @@
 - 💼 Frontend Engineer at **Genesis Tech**, working across 3 products simultaneously
 - ⚡ Strong product mindset: analytics, A/B testing, pricing experiments, performance optimization
 - 🧠 Built a config-driven funnel builder supporting A/B tests and multivariant flows
-- 🛠️ Full-stack comfortable — headless CMS (Strapi + PostgreSQL), REST APIs, Ruby/C# backends
-- 🤖 AI-assisted workflow: Cursor, Claude Code
+- 🛠️ Full-stack comfortable — headless CMS (Strapi + PostgreSQL), REST APIs
+- 🤖 AI-assisted workflow with Cursor and Claude Code — including touching Ruby/C# backends (pricing, analytics, funnel logic) I don't own end-to-end
 - 🌱 Currently going deeper full-stack: **NestJS · TypeORM · PostgreSQL**
 
 ---
